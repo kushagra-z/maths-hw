@@ -65,7 +65,7 @@ def final_data_m(sm):
    
    return value
 
-print(simplest_ratio(ig))
+
 
 
 
